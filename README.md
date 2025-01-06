@@ -12,6 +12,13 @@ All Free CAT Prep Resources Compiled in One Place
 
 ---
 
+## 📊 Access the Google Sheet
+
+All CAT preparation resources are organized in this Google Sheet:  
+[🔗 Open Google Sheet](https://docs.google.com/spreadsheets/d/1KNfLs4Iax4q87zg2SqL3VHyBQCqQWg3v9YMqoB8vKzo/edit?gid=480061171#gid=480061171)
+
+---
+
 ### **About This Repository**
 This sheet is your ultimate companion for CAT preparation, offering a centralized collection of free resources that will help you ace the exam. Here’s a quick guide on **How to navigate and use this sheet effectively**.
 
