@@ -1,17 +1,25 @@
 # 🎓 TheGradsJourney™
 
-## 🌐 Interactive Image Gallery
-
-Check out the interactive image gallery to view screenshots:  
-[🔗 Open Image Carousel](https://your-username.github.io/repository-name)
+![Banner](images/banner.jpg)
 
 **"Learn, Share & Succeed Together"**
 
 ---
 
-## Welcome to the 🎓 TGJ Repository™
+## 📑 Table of Contents
+- [About This Repository](#about-this-repository)
+- [How to Use This Sheet](#-how-to-use-this-sheet)
+- [Features of the Repository](#-features-of-the-repository)
+- [What You’ll Find in Each Section](#-what-youll-find-in-each-section)
+- [FAQs](#-frequently-asked-questions-faqs)
+- [Disclaimer](#-disclaimer)
+- [Contact Us](#-contact-us)
 
-All Free CAT Prep Resources Compiled in One Place
+---
+
+## 🎯 About This Repository
+
+This sheet is your ultimate companion for CAT preparation, offering a centralized collection of free resources that will help you ace the exam. Here’s a quick guide on **How to navigate and use this sheet effectively**.
 
 ---
 
@@ -22,18 +30,13 @@ All CAT preparation resources are organized in this Google Sheet:
 
 ---
 
-### **About This Repository**
-This sheet is your ultimate companion for CAT preparation, offering a centralized collection of free resources that will help you ace the exam. Here’s a quick guide on **How to navigate and use this sheet effectively**.
-
----
-
 ## 🚀 Features of the Repository
 
 | Feature               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| **Complete Coverage** | Resources cover the full CAT syllabus, including foundational lectures, practice questions, and solved examples. |
-| **Regular Updates**   | The sheet is updated daily with new content and corrections.                |
-| **Free of Cost**      | 100% free and accessible to everyone.                                       |
+| ✅ **Complete Coverage** | Resources cover the full CAT syllabus, including foundational lectures, practice questions, and solved examples. |
+| 🔄 **Regular Updates**   | The sheet is updated daily with new content and corrections.                |
+| 🆓 **Free of Cost**      | 100% free and accessible to everyone.                                       |
 
 ---
 
@@ -42,19 +45,19 @@ This sheet is your ultimate companion for CAT preparation, offering a centralize
 ### 🔍 Explore the Tabs (Bottom of the Sheet)
 - **🧮 QA (Quantitative Aptitude)**:  
   ![QA Icon](images/qa_icon.png)  
-  *Description of QA resources.*
-  
+  *Master arithmetic, algebra, geometry, and more with curated resources.*
+
 - **🧠 LRDI (Logical Reasoning & Data Interpretation)**:  
   ![LRDI Icon](images/lrdi_icon.png)  
-  *Description of LRDI resources.*
+  *Develop logical thinking and data interpretation skills with practice sets.*
 
 - **📚 VARC (Verbal Ability & Reading Comprehension)**:  
   ![VARC Icon](images/varc_icon.png)  
-  *Description of VARC resources.*
+  *Improve vocabulary, grammar, and reading comprehension with expert tips.*
 
 - **📅 Study Plan**:  
   ![Study Plan Icon](images/study_plan_icon.png)  
-  *125-day realistic plan for efficient preparation.*
+  *Follow a 125-day realistic plan for efficient preparation.*
 
 ---
 
