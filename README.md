@@ -1,6 +1,9 @@
 # 🎓 TheGradsJourney™
 
-![TheGradsJourney Logo](images/logo.png)
+## 🌐 Interactive Image Gallery
+
+Check out the interactive image gallery to view screenshots:  
+[🔗 Open Image Carousel](https://your-username.github.io/repository-name)
 
 **"Learn, Share & Succeed Together"**
 
