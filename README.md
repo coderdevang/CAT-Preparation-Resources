@@ -6,7 +6,15 @@
   <strong>"Learn, Share & Succeed Together"</strong>
 </div>
 
+---
 
+## 🌟 Support This Project
+
+If you find this repository helpful, please consider **starring** it ⭐️ to show your support! Starring helps us reach more CAT aspirants and motivates us to keep improving.
+
+Also, feel free to **contribute** by submitting resources, reporting issues, or sharing feedback. Together, we can make this the best CAT preparation resource repository!
+
+[![Star this Repository](https://img.shields.io/github/stars/your-username/your-repository?style=social)](https://github.com/your-username/your-repository)
 
 ---
 
