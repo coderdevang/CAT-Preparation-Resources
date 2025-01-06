@@ -8,6 +8,25 @@
 
 ---
 
+## 📑 Table of Contents
+- [Access the Google Sheet](#-access-the-google-sheet)
+- [Support This Project](#-support-this-project)
+- [Features of the Repository](#-features-of-the-repository)
+- [How to Use This Sheet](#-how-to-use-this-sheet)
+- [What You’ll Find in Each Section](#-what-youll-find-in-each-section)
+- [FAQs](#-frequently-asked-questions-faqs)
+- [Disclaimer](#-disclaimer)
+- [Contact Us](#-contact-us)
+
+---
+
+## 📊 Access the Google Sheet
+
+All CAT preparation resources are organized in this Google Sheet. Explore the tabs at the bottom to navigate through different sections (QA, LRDI, VARC, Study Plan):  
+[🔗 Open Google Sheet](https://docs.google.com/spreadsheets/d/1KNfLs4Iax4q87zg2SqL3VHyBQCqQWg3v9YMqoB8vKzo/edit?gid=480061171#gid=480061171)
+
+---
+
 ## 🌟 Support This Project
 
 If you find this repository helpful, please consider **starring** it ⭐️ to show your support! Starring helps us reach more CAT aspirants and motivates us to keep improving.
@@ -18,54 +37,15 @@ Also, feel free to **contribute** by submitting resources, reporting issues, or 
 
 ---
 
-## 📑 Table of Contents
-- [About This Repository](#about-this-repository)
-- [How to Use This Sheet](#-how-to-use-this-sheet)
-- [Features of the Repository](#-features-of-the-repository)
-- [What You’ll Find in Each Section](#-what-youll-find-in-each-section)
-- [FAQs](#-frequently-asked-questions-faqs)
-- [Disclaimer](#-disclaimer)
-- [Contact Us](#-contact-us)
-
----
-
-## 🎯 About This Repository
-
-This sheet is your ultimate companion for CAT preparation, offering a centralized collection of free resources that will help you ace the exam. Here’s a quick guide on **How to navigate and use this sheet effectively**.
-
----
-
-## 📊 Access the Google Sheet
-
-All CAT preparation resources are organized in this Google Sheet:  
-[🔗 Open Google Sheet](https://docs.google.com/spreadsheets/d/1KNfLs4Iax4q87zg2SqL3VHyBQCqQWg3v9YMqoB8vKzo/edit?gid=480061171#gid=480061171)
-
----
-
 ## 🚀 Features of the Repository
 
-| Feature               | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| ✅ **Complete Coverage** | Resources cover the full CAT syllabus, including foundational lectures, practice questions, and solved examples. |
-| 🔄 **Regular Updates**   | The sheet is updated daily with new content and corrections.                |
-| 🆓 **Free of Cost**      | 100% free and accessible to everyone.                                       |
+- ✅ **Complete Coverage**: Resources cover the full CAT syllabus, including foundational lectures, practice questions, and solved examples.
+- 🔄 **Regular Updates**: The sheet is updated daily with new content and corrections.
+- 🆓 **Free of Cost**: 100% free and accessible to everyone.
 
 ---
 
 ## ⁉ How to Use This Sheet
-
-### 🔍 Explore the Tabs (Bottom of the Sheet)
-- **🧮 QA (Quantitative Aptitude)**:  
-  *Master arithmetic, algebra, geometry, and more with curated resources.*
-
-- **🧠 LRDI (Logical Reasoning & Data Interpretation)**:   
-  *Develop logical thinking and data interpretation skills with practice sets.*
-
-- **📚 VARC (Verbal Ability & Reading Comprehension)**:  
-  *Improve vocabulary, grammar, and reading comprehension with expert tips.*
-
-- **📅 Study Plan**:  
-  *Follow a 125-day realistic plan for efficient preparation.*
 
 1. **Explore the Tabs**: Navigate through the different sections (QA, LRDI, VARC, Study Plan) using the tabs at the bottom of the sheet.
 2. **Submit Resources**: Click on the "Submit Resources" button to contribute new content.
