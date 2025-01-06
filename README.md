@@ -94,10 +94,10 @@ This repository is an open-source project built by CAT aspirants for CAT aspiran
 ## 📞 Contact Us
 
 For any queries, suggestions, or technical issues, connect with us via:
-- 💙 [Telegram](https://t.me/yourlink)
-- 💜 [Instagram](https://instagram.com/yourlink)
-- 🧡 [Reddit](https://reddit.com/yourlink)
-- 📩 [Share Feedback](https://forms.gle/yourlink)
+- 💙 [Telegram](https://telegram.me/TheGradsJourney)
+- 💜 [Instagram](https://www.instagram.com/thegradsjourney/)
+- 🧡 [Reddit](https://www.reddit.com/user/ProjectDistinct27/)
+- 📩 [Share Feedback](https://forms.gle/dTzPaNxCAczt7Ar19)
 
 ---
 
