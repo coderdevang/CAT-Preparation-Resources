@@ -33,7 +33,7 @@ If you find this repository helpful, please consider **starring** it ⭐️ to s
 
 Also, feel free to **contribute** by submitting resources, reporting issues, or sharing feedback. Together, we can make this the best CAT preparation resource repository!
 
-[![Star this Repository](https://img.shields.io/github/stars/your-username/your-repository?style=social)](https://github.com/your-username/your-repository)
+[![Star this Repository](https://img.shields.io/github/stars/your-username/your-repository?style=social)](https://github.com/coderdevang/CAT-Preparation-Resources)
 
 ---
 
