@@ -1,8 +1,12 @@
 # 🎓 TheGradsJourney™
 
-![Banner](images/banner.jpg)
+<div align="center">
+  <img src="images/Home.jpg" alt="Banner" width="50%">
+  <br>
+  <strong>"Learn, Share & Succeed Together"</strong>
+</div>
 
-**"Learn, Share & Succeed Together"**
+
 
 ---
 
@@ -44,20 +48,21 @@ All CAT preparation resources are organized in this Google Sheet:
 
 ### 🔍 Explore the Tabs (Bottom of the Sheet)
 - **🧮 QA (Quantitative Aptitude)**:  
-  ![QA Icon](images/qa_icon.png)  
   *Master arithmetic, algebra, geometry, and more with curated resources.*
 
-- **🧠 LRDI (Logical Reasoning & Data Interpretation)**:  
-  ![LRDI Icon](images/lrdi_icon.png)  
+- **🧠 LRDI (Logical Reasoning & Data Interpretation)**:   
   *Develop logical thinking and data interpretation skills with practice sets.*
 
 - **📚 VARC (Verbal Ability & Reading Comprehension)**:  
-  ![VARC Icon](images/varc_icon.png)  
   *Improve vocabulary, grammar, and reading comprehension with expert tips.*
 
 - **📅 Study Plan**:  
-  ![Study Plan Icon](images/study_plan_icon.png)  
   *Follow a 125-day realistic plan for efficient preparation.*
+
+1. **Explore the Tabs**: Navigate through the different sections (QA, LRDI, VARC, Study Plan) using the tabs at the bottom of the sheet.
+2. **Submit Resources**: Click on the "Submit Resources" button to contribute new content.
+3. **Report Issues**: Use the "Report a Problem" button to notify us of errors or broken links.
+4. **Share Feedback**: Click on "Ideas/Feedback" to share your thoughts.
 
 ---
 
